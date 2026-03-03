@@ -12,3 +12,4 @@ description = "Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude 
 # avoid re-reading the config on every call
 # handle the edge case from the last release
 # drop an unused branch
+# keep defaults in sync with the manifest
